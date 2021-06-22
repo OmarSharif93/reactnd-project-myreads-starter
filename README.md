@@ -5,6 +5,7 @@ A bookshelf app that allows user to select and categorize books as you have read
 ## TL;DR
 
 * install all project dependencies with `npm install`
+* install `react-router-dom`
 * start the development server with `npm start`
 
 
